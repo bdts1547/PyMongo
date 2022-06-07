@@ -1,0 +1,14 @@
+{
+    "_id": 3,
+    "user": {
+        "id": "object_uid",
+        "firstName": "John",
+        "middleName": "Random",
+        "lastName": "Adan",
+        "email": "john.doe@example.com",
+        "createdAt": "2013/12/20",
+        "updatedAt": "2013/12/20",
+        "birthdate": "1980/10/20",
+        "illnesses": "bla bla bla"
+    }
+}
